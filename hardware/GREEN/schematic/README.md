@@ -1,6 +1,9 @@
-# OSF GREEN Schematic
+# OSF GREEN schematic
 
-This directory contains the OSF GREEN schematic export.
+This directory contains OSF GREEN schematic exports.
 
-Preferred schematic PDF: `OSF_GREEN_Schematic.pdf`.
-Source schematic files may be added later.
+Current public schematic PDF:
+
+- `OSF_GREEN_Schematic.pdf`
+
+Source schematic files may be added later with tool and version notes.

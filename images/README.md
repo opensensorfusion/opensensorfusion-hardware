@@ -1,6 +1,12 @@
 # Images
 
-Board photos and diagrams can be placed here.
+This directory is for general project images.
 
-Do not add rendered or edited images that obscure the actual board state when
-the image is intended to document hardware identity.
+Board-specific OSF GREEN media belongs under:
+
+- `hardware/GREEN/images/photos/`
+- `hardware/GREEN/images/pcb-2d/`
+- `hardware/GREEN/images/renders-3d/`
+
+Keep root-level images limited to repository-wide diagrams or general project
+media.

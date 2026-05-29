@@ -1,6 +1,13 @@
-# OSF GREEN Bill Of Materials
+# OSF GREEN Bill of Materials
 
-This directory contains the OSF GREEN bill of materials.
+This directory contains OSF GREEN bill of materials exports.
 
-Preferred public export: `OSF_GREEN_BOM.csv`.
-Spreadsheet source files may be added later as the hardware release is prepared.
+Current public export:
+
+- `OSF_GREEN_BOM.csv`
+
+Recommended spreadsheet upload location, if a spreadsheet export is added later:
+
+- `OSF_GREEN_BOM.xlsx`
+
+Keep BOM filenames stable once referenced by public documentation.
