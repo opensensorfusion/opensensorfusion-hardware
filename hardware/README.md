@@ -1,10 +1,9 @@
-# Hardware Design Files
+# Hardware Targets
 
-This directory is for OSF GREEN design files.
+This directory contains hardware target documentation for Open Sensor Fusion boards.
 
-Design files are being organized for public release. Add source files and
-exports under the subdirectories below.
+The first concrete target is OSF GREEN. Board-specific files are placed under
+`hardware/GREEN/`.
 
-- `schematic/`
-- `pcb/`
-- `bom/`
+Current public release artifacts may be added incrementally as the hardware
+release is prepared.
