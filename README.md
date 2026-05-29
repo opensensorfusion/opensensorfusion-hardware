@@ -8,6 +8,27 @@ OSF GREEN is a prototype board used to test the OSF0 UART stream with a
 Linux IIO host driver. The board presents accel, gyro, magnetometer, and
 temperature samples to a host through an OSF0 frame stream.
 
+## OSF GREEN Preview
+
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <img src="hardware/GREEN/images/pcb-2d/OSF_GREEN_2d_top.png" alt="OSF GREEN 2D top PCB view">
+    </td>
+    <td width="33%" align="center">
+      <img src="hardware/GREEN/images/renders-3d/OSF_GREEN_3d_angle30.png" alt="OSF GREEN 3D render at 30 degrees">
+    </td>
+    <td width="33%" align="center">
+      <img src="hardware/GREEN/images/photos/OSF_GREEN_with_raspberry_pi.jpg" alt="OSF GREEN connected with a Raspberry Pi">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">2D PCB top view</td>
+    <td align="center">3D board render</td>
+    <td align="center">Board with Raspberry Pi</td>
+  </tr>
+</table>
+
 ## Current Hardware Target
 
 - Board: OSF GREEN
